@@ -7,13 +7,14 @@ I'm a Full Stack Developer from Oviedo, Spain, with a strong background in Java,
 
 🚀 I'm currently developing a personal Full Stack E-commerce project, which I’m sharing step-by-step on GitHub as it evolves. I enjoy working on clean, maintainable code and am always exploring new technologies and best practices.
 
+📚 I continuously invest in my education through courses in Java, UX Design (Google), Advanced JavaScript, and AI fundamentals, keeping my skills sharp and up-to-date.  
+
 ## 🛠 Tech Stack:
 Backend: Java, Spring Boot, Hibernate, PHP  
 Frontend: React, Angular, Redux, JavaScript, HTML, CSS/SCSS  
 Databases: MySQL, SQL, JSON  
 Tools: Git, Maven, IntelliJ, VS Code, Figma, Adobe XD  
 
-📚 I continuously invest in my education through courses in Java, UX Design (Google), Advanced JavaScript, and AI fundamentals, keeping my skills sharp and up-to-date.
 
 ## 🌐 Portfolio & Contact:
 Portfolio: jamallo.es  
