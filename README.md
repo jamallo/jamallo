@@ -9,15 +9,20 @@ I'm a Full Stack Developer from Oviedo, Spain, with a strong background in Java,
 
 ## 🛠 Tech Stack:
 Backend: Java, Spring Boot, Hibernate, PHP
+
 Frontend: React, Angular, Redux, JavaScript, HTML, CSS/SCSS
+
 Databases: MySQL, SQL, JSON
+
 Tools: Git, Maven, IntelliJ, VS Code, Figma, Adobe XD
 
 📚 I continuously invest in my education through courses in Java, UX Design (Google), Advanced JavaScript, and AI fundamentals, keeping my skills sharp and up-to-date.
 
 ## 🌐 Portfolio & Contact:
 Portfolio: jamallo.es
+
 Email: alba@jamallo.es
+
 Phone: +34 654 526 418
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or chat about tech!
