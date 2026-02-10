@@ -1,4 +1,4 @@
-#👋 Hello, I'm Alba Prado Fernández
+# 👋 Hello, I'm Alba Prado Fernández
 ### *Full Stack Developer | Java · Spring Boot · Angular · React · UX/UI*
 
 I'm a Full Stack Developer from Oviedo, Spain, with a strong background in Java, Spring Boot, Angular, and React. I combine solid backend development with modern frontend skills and a keen eye for UX/UI design, creating functional and user-friendly web applications.
