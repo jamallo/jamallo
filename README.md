@@ -16,7 +16,7 @@ Tools: Git, Maven, IntelliJ, VS Code, Figma, Adobe XD
 
 ## 🌐 Portfolio & Contact:
 Portfolio: jamallo.es  
-Email: alba@jamallo.es  
+Email: alba[alt]jamallo.es  
 Phone: +34 654 526 418  
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or chat about tech!
